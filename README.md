@@ -1,32 +1,46 @@
 # Awesome Product Launch Platforms
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of places to launch, promote, and share your startup, SaaS, or side project.
+A curated list of places to launch, promote, and share your startup, SaaS, AI tool, or side project.
 
 ## Featured
 
 * [LaunchOn.it](https://launchon.it) – Weekly product launch platform offering 7 days of visibility for indie software.
 
-## General Directories
+## General Directories & Launch Boards
 
-* [BetaList](https://betalist.com) – Early-stage startups and pre-launch products.
-* [DevHunt](https://devhunt.org) – Launch platform for developer tools.
+* [AlternativeTo](https://alternativeto.net) – Crowd-sourced software recommendations and alternatives.
+* [BetaList](https://betalist.com) – Early-stage startups and pre-launch waitlists.
+* [BetaPage](https://betapage.co) – Discover and review early-stage startups and beta products.
+* [DevHunt](https://devhunt.org) – Launch platform for developer tools and open-source software.
 * [Fazier](https://fazier.com) – Daily product launches and community boards.
-* [Microlaunch](https://microlaunch.net) – Launchpad and community for micro-SaaS.
+* [Launching Next](https://www.launchingnext.com) – Curated directory of new startup ideas and launches.
+* [Microlaunch](https://microlaunch.net) – Launchpad and community for micro-SaaS and indie tools.
+* [Peerlist](https://peerlist.io) – Professional network for builders with product launching features.
 * [Product Hunt](https://www.producthunt.com) – Daily leaderboard for new tech products and apps.
+* [SaaSHub](https://www.saashub.com) – Software alternative marketplace and discovery platform.
+* [ScrollLaunch](https://www.scrolllaunch.com) – Weekly launch board and startup directory.
+* [Startup Base](https://startupbase.io) – Platform to discover and share new startups.
+* [Startup Stash](https://startupstash.com) – Curated directory of tools and resources for startups.
 * [Uneed](https://www.uneed.best) – Curated directory for web tools and apps.
 
 ## AI Directories
 
-* [Futurepedia](https://www.futurepedia.io) – Directory for AI software.
-* [There's An AI For That](https://theresanaiforthat.com) – Comprehensive database of AI tools.
-* [Toolify.ai](https://toolify.ai) – AI application tracker and directory.
+* [AIxploria](https://www.aixploria.com) – Massive directory tracking thousands of AI tools categorized by use case.
+* [Future Tools](https://www.futuretools.io) – Curated directory highlighting innovative and emerging AI platforms.
+* [Futurepedia](https://www.futurepedia.io) – One of the largest directories for AI software and applications.
+* [There's An AI For That](https://theresanaiforthat.com) – Comprehensive task-based database of AI tools.
+* [Toolify.ai](https://toolify.ai) – AI application tracker and directory analyzing traffic and trends.
 
-## Communities & Forums
+## Communities, Forums & Social Boards
 
-* [Hacker News](https://news.ycombinator.com) – Tech community forum (Show HN).
-* [Indie Hackers](https://www.indiehackers.com) – Community for bootstrapped founders.
-* [Reddit r/SideProject](https://www.reddit.com/r/SideProject) – Share side projects and get feedback.
+* [Hacker News](https://news.ycombinator.com) – Tech community forum for Show HN posts.
+* [Indie Hackers](https://www.indiehackers.com) – Community for bootstrapped founders and makers.
+* [Reddit r/Entrepreneur](https://www.reddit.com/r/Entrepreneur) – Global community for business owners and startups.
+* [Reddit r/SaaS](https://www.reddit.com/r/SaaS) – Subreddit dedicated to software-as-a-service discussions.
+* [Reddit r/SideProject](https://www.reddit.com/r/SideProject) – Share side projects and get unfiltered feedback.
+* [Reddit r/startups](https://www.reddit.com/r/startups) – Community for startup discussions and advice.
+* [X #BuildInPublic](https://x.com) – The micro-community for sharing live metrics and updates.
 
 ## Contributing
 
